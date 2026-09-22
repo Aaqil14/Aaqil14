@@ -58,7 +58,7 @@
       <h3><i>to develop our talents.</i></h3>
       <h3>❞</h3>
       <br>
-      <b>— APJ Abdul Kalam 🇮🇳</b>
+      <b>— APJ Abdul Kalam </b>
       <br><br>
       <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&pause=2000&color=FF0000&center=true&width=400&lines=This+quote+drives+me+every+single+day+🔥;Hard+work+beats+talent+always+💪;Keep+learning+and+never+give+up+🚀" />
     </td>
