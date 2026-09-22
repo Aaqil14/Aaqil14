@@ -161,6 +161,8 @@
 
 **Tech Used:** HTML, CSS, JavaScript
 
+🔗 Live: strongbodygym.infinityfree.me
+
 </details>
 
 <br>
