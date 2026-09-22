@@ -60,7 +60,6 @@
       <br>
       <b>— APJ Abdul Kalam </b>
       <br><br>
-       />
     </td>
   </tr>
 </table>
